@@ -2,8 +2,6 @@
 
 This is To-Do List app developed with SwiftUI and Xcode.
 
-Currently a demo version, with some funcionality have yet to develop, e.g. List sorting features, reminders, etc.
-
 Current working features include:
 
 - Add new list item feature
