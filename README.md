@@ -38,7 +38,7 @@ Current working features include:
 
 - Notification feature
 
-![Notification  feature](demo/notification .gif)
+![Notification  feature](demo/notification.gif)
 
 - Dark mode
 
