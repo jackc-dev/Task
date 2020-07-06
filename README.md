@@ -1,6 +1,6 @@
 # Task
 
-This is To-Do List app developed with SwiftUI and Xcode.
+This is a To-Do List app developed with SwiftUI and Xcode.
 
 Current working features include:
 

@@ -73,7 +73,7 @@ struct MainView: View {
                             ForEach(filteredItems.filter({
                                 (self.searchText.isEmpty
                                     ? true
-                                    : $0.title.contains(searchText) || $0.notes.contains(searchText))
+                                    : $0.title.localizedCaseInsensitiveContains(searchText) || $0.notes.localizedCaseInsensitiveContains(searchText))
                                 })
                             ) { item in
                                 HStack {
