@@ -1,3 +1,9 @@
+# Requirement
+
+- Xcode 12
+- Swift 5.0
+- iOS 13
+
 # Task
 
 This is a To-Do List app developed with SwiftUI and Xcode.
@@ -44,7 +50,4 @@ Current working features include:
 
 ![Dark Mode](demo/darkMode.gif)
 
-# Requirement
 
-- Xcode 12
-- Swift 5.0
