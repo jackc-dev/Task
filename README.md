@@ -1,6 +1,6 @@
 # Requirement
 
-- Xcode 12
+- Xcode 11
 - Swift 5.0
 - iOS 13
 
